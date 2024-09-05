@@ -1439,4 +1439,4 @@ int main() {
     return 0;
 }
 
-QUESTÃO 43:
+
